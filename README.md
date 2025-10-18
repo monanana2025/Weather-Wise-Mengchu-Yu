@@ -19,26 +19,26 @@ WeatherWise can:
 
 ## File Structure
 Weather-Wise-Mengchu-Yu/
-├── starter_notebook.ipynb
-├── README.md
-├── PROMPTING.md
-├── ai-conversations/
-│   ├── conversation1_input_optimisation.txt
-│   ├── conversation2_modular_design.txt
-│   ├── conversation3_api_error_405.txt
-│   ├── conversation4_colab_github.txt
-│   ├── conversation5_api_key_testing.txt
-│   ├── conversation6_colab_ai_optimisation.txt
-│   ├── conversation7_visualisation_design.txt
-│   ├── conversation8_error_handling.txt
-│   └── README.txt
-├── submission/
-│   ├── reflection.md
-│   ├── checklist.md
-│   ├── screenshots/
-│   │   ├── ui_test_result.png
-│   │   ├── error_test_log.png
-│   │   ├── api_debug_example.png
-│   │   └── colab_save_issue.png
-└── resources/
-    └── assignment-summary.md
+    starter_notebook.ipynb
+    README.md
+     PROMPTING.md
+    ai-conversations/
+        conversation1_input_optimisation.txt
+        conversation2_modular_design.txt
+        conversation3_api_error_405.txt
+        conversation4_colab_github.txt
+        conversation5_api_key_testing.txt
+        conversation6_colab_ai_optimisation.txt
+        conversation7_visualisation_design.txt
+        conversation8_error_handling.txt
+        README.txt
+    submission/
+        reflection.md
+        checklist.md
+        screenshots/
+            ui_test_result.png
+            error_test_log.png
+            api_debug_example.png
+            colab_save_issue.png
+    resources/
+        assignment-summary.md
