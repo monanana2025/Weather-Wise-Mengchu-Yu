@@ -1,0 +1,6 @@
+Title: Submitting project without API key
+Me: If I remove my API key, will the program fail during marking?
+AI: No. Curtin uses mock APIs. Just keep the function name and structure.
+Me: Should I keep the code line for the key?
+AI: Yes, keep os.getenv("API_KEY") but do not include your real key.
+Reflection: I learned how to keep my project secure and still testable.

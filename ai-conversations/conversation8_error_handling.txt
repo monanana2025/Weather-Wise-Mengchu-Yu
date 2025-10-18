@@ -1,0 +1,5 @@
+Title: Handling wrong user input
+Me: When users enter a wrong city, the code crashes. What should I do?
+AI: Use try and except to catch the error and print a message.
+Me: I tried it and now it shows “Invalid input” instead of stopping.
+Reflection: I learned that simple error handling keeps my app stable.

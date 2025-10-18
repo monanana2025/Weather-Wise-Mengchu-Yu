@@ -1,0 +1,6 @@
+Title: Fixing the 405 API error
+Me: My API test shows 405. Is my key wrong?
+AI: No. 405 means the request method is not allowed. Use GET instead of POST.
+Me: Oh, that worked. Thanks.
+AI: Add a small try/except block for safety.
+Reflection: I learned to read HTTP codes and fix problems step by step.

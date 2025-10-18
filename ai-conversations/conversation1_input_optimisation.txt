@@ -1,0 +1,6 @@
+Title: Using dropdown input to reduce user errors
+Me: I want to stop users from typing wrong city names. Can I use dropdown lists?
+AI: Yes. Dropdowns give fixed choices, so users cannot type wrong text. It also needs less validation.
+Me: Will that make it faster?
+AI: A little bit faster and more stable. It avoids wrong API calls.
+Reflection: I learned that simple dropdowns make the program cleaner and safer.

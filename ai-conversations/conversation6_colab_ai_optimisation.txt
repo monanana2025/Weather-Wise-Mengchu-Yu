@@ -1,0 +1,6 @@
+Title: Colab AI helped make my code faster
+Me: Colab AI said I can use list comprehension instead of a for-loop. Is that safe?
+Colab AI: Yes. It does the same thing but faster.
+Me: I will test both.
+Colab AI: Use timeit to compare.
+Reflection: I learned that Colab AI can improve my code speed easily.

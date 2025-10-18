@@ -1,0 +1,5 @@
+Title: Saving from Colab to GitHub
+Me: I cannot save my notebook to GitHub after I run UI code. Why?
+AI: Colab blocks saving when widgets or plots are active. Reload before saving or download first.
+Me: I reloaded and it worked.
+Reflection: Now I know how to save my file correctly after using UI.

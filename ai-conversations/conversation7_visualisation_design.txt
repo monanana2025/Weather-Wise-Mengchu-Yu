@@ -1,0 +1,5 @@
+Title: Making charts clearer
+Me: My temperature chart looks messy. How can I fix it?
+AI: Add title, labels, and legend. Try a bigger figure size like (8,5).
+Me: The graph looks clear now.
+Reflection: I saw how small visual changes improve user experience.

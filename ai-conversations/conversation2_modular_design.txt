@@ -1,0 +1,6 @@
+Title: Keep UI and data in different parts
+Me: Can I put date selection inside the data function?
+AI: Better not. UI and data code should be in different sections.
+Me: So data only gets weather and UI only shows results?
+AI: Yes. That is good modular design.
+Reflection: I understood how to separate logic and make the code easy to test.
