@@ -1,63 +1,44 @@
-# 🌦️ WeatherWise Template
+# WeatherWise – AI-Enhanced Weather App
 
-Welcome to the **WeatherWise Assignment Starter Template**! This repository helps you kickstart your project by combining Python, weather APIs, data visualisation, and AI-assisted development. 🤖📊
+This project is part of the Curtin unit *ISYS5002 Programming for Business Analytics*.  
+It shows how Python can be used to collect weather data, analyse it, and build a small user interface.
 
-![Build With AI](https://img.shields.io/badge/Built_with-AI-blueviolet?logo=openai)
-![Python](https://img.shields.io/badge/Made_with-Python-3776AB?logo=python)
-![Visualisation](https://img.shields.io/badge/Includes-Visualisations-orange?logo=plotly)
+## Project Summary
+WeatherWise can:
+- get real-time weather data from **wttr.in API**  
+- understand simple user questions using **basic NLP**
+- show temperature and rain charts with **matplotlib**
+- let users choose city and date using **ipywidgets**
+- handle wrong inputs and show clear error messages
 
----
+## How to Run
+1. Open the notebook in **Google Colab** or **Jupyter**.  
+2. Run all cells from top to bottom.  
+3. When the UI shows up, choose a city and forecast days.  
+4. Wait for the charts and results to appear.
 
-## 🚀 How to Use This Template
-
-1. Click **"Use this template"** on GitHub to create your own copy.
-2. Rename your repository to something like `weatherwise-jane-doe`.
-3. Clone it and start developing in `starter_notebook.ipynb`.
-
----
-
-## 📁 Folder Structure
-
-- `starter_notebook.ipynb` — Main notebook to build your project.
-- `ASSIGNMENT.md` — Full assignment specification.
-- `ai-conversations/` — Save your `.txt` AI conversations here.
-- `resources/` — Guides, prompting tips, and AI technique examples.
-- `submission/` — Files to help you finalise your submission:
-  - `checklist-md.md` — Submission checklist
-  - `reflection.md` — Write your 300–500 word project reflection
-  - `one-page-summary.md` — (Optional) Your own summary of key ideas or process
-
----
-
-📄 **Quick Overview:**  
-A one-page summary of the full assignment is available in [`resources/assignment-summary.md`](resources/assignment-summary.md).
-
----
-
-## 📓 Submission Checklist
-
-✅ Complete all required functions  
-✅ Include at least 5 AI conversations in `ai-conversations/`  
-✅ Document your intentional prompting  
-✅ Fill in your project reflection in `submission/reflection-template.md`  
-✅ Zip your project and upload it to the LMS  
-
----
-
-🧠 AI Conversations  
-Save your AI interactions in the `ai-conversations/` folder.  
-See `ai-conversations/how-to-log-ai-conversations.md` for details.
-
-
---
-## 🧠 Need Help with AI Prompts?
-
-Check out:
-Check out:
-- `resources/ai-tips-tricks.md` — Prompting tips and pitfalls
-- `resources/sample-prompting-journey.md` — Full example of AI-enhanced development
-- `resources/prompts-by-method-step.md` — Prompts aligned with the 6-step dev process
-- `resources/before-after-example.md` — Required: Show how your prompting improved AI-generated code
-
-
-Good luck and have fun! 💡🌤️
+## File Structure
+Weather-Wise-Mengchu-Yu/
+├── starter_notebook.ipynb
+├── README.md
+├── PROMPTING.md
+├── ai-conversations/
+│   ├── conversation1_input_optimisation.txt
+│   ├── conversation2_modular_design.txt
+│   ├── conversation3_api_error_405.txt
+│   ├── conversation4_colab_github.txt
+│   ├── conversation5_api_key_testing.txt
+│   ├── conversation6_colab_ai_optimisation.txt
+│   ├── conversation7_visualisation_design.txt
+│   ├── conversation8_error_handling.txt
+│   └── README.txt
+├── submission/
+│   ├── reflection.md
+│   ├── checklist.md
+│   ├── screenshots/
+│   │   ├── ui_test_result.png
+│   │   ├── error_test_log.png
+│   │   ├── api_debug_example.png
+│   │   └── colab_save_issue.png
+└── resources/
+    └── assignment-summary.md
