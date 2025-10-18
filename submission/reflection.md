@@ -1,16 +1,11 @@
 # ✍️ Project Reflection
 
-## AI Tools Used
-What tools did you use (e.g., ChatGPT, Copilot)? How did they help?
+Through this project, I learned how to design an application in a modular way and how to connect each independent part into one working system. I also gained a deeper understanding of how APIs work, and how AI tools can support problem-solving and improve program design. Developing each module separately made me realise the importance of clear structure and “clean architecture” in programming.
 
-## Prompting Techniques
-Which intentional prompting strategies did you apply?
+One of the most valuable experiences was learning how to collaborate with AI tools like ChatGPT and Colab AI. I found that AI can help a lot when I meet technical problems, but the final result still depends on how clearly I understand the problem. Sometimes, when my question was unclear, AI gave me incorrect or confusing answers, which made me realise that human judgement is still essential. However, through these interactions, I learned new methods—for example, how to call GPT for AI-based interaction inside the code and how to debug step by step when API errors appear.
 
-## What Worked Well?
-Describe one thing you’re proud of.
+AI was especially helpful in error handling and code refinement. When I encountered errors, I used AI to explain the messages and suggest fixes. I always kept my original code and compared AI’s version with mine. This process helped me understand Python’s logical flow more deeply. It also made me more confident in testing, debugging, and refactoring my own scripts.
 
-## What Would You Do Differently?
-Describe one thing you'd change if you had more time.
+The main challenges I faced included unstable API responses and the issue that Colab could not save notebooks containing active UI widgets to GitHub. By using AI’s explanations, I gradually understood the causes and found solutions. For example, restarting the runtime or removing widgets before saving solved the syncing problem.
 
-## Final Thoughts
-Any parting comments on your learning experience?
+Overall, this project strengthened my ability to combine Python programming, AI reasoning, and user interface design. It also built my confidence in managing end-to-end workflows, from data collection to visualisation. The biggest takeaway for me is that AI can accelerate learning and development, but its true power appears only when guided by clear human thinking and structured experimentation. This project made me realise that human–AI collaboration is not about replacing my work, but about improving how I learn and create.
